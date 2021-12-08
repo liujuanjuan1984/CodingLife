@@ -103,7 +103,7 @@ updated_at: 2021-12-08
 - [不躺平不鸡血，只是生活方式的选择](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_22_不躺平不鸡血，只是生活方式的选择.md)
 - [让写作起步更有效](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_26_让写作起步更有效.md)
 - [践行写作初见成效，但别急着提高标准](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_11_02_践行写作初见成效，但别急着提高标准.md)
-- [为谁而写，读者还是自己](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_07_为谁而写，读者还是自己.md)
+- [为谁写作，读者还是自己](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_07_为谁写作，读者还是自己.md)
 
 ### 飞帖:
 
@@ -281,7 +281,7 @@ updated_at: 2021-12-08
 ### 写作:
 
 - [如何应对儿子逃避写作文](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_11_13_如何应对儿子逃避写作文.md)
-- [为谁而写，读者还是自己](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_07_为谁而写，读者还是自己.md)
+- [为谁写作，读者还是自己](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_07_为谁写作，读者还是自己.md)
 
 ### 心理学:
 
