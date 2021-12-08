@@ -60,7 +60,6 @@ cmd\docs.go:5:2: mkdir C:\Program Files\Go\bin\pkg\mod\cache\download\github.com
 
 解决办法：[搜索“如何获得 WIN10 下 C 盘文件夹写入权限”](https://jingyan.baidu.com/article/60ccbceb44a70064cab197af.html)
 
-
 ### 报错：no required module provides ... 包不存在
 
 再次遇到报错：no required module provides package 详情如下 
@@ -132,7 +131,7 @@ swag : 无法将“swag”项识别为 cmdlet、函数、脚本文件或可运�
 
 ```
 
-根源是：swag没有安装，只是下载了而已。
+根源是：swag 没有安装，只是下载了而已。
 
 ### 报错：无法将“swag”项识别为…… 没安装 swag 工具
 
@@ -160,7 +159,6 @@ windows 下没有 bin 目录，首先我们需要找到 swag 的下载位置 `*�
 
 修改一下 `swag_init.sh` 里的目录参数，然后就成功了。可以访问到 API 网页了。
 
-
 修改前：
 
 ```sh
@@ -169,7 +167,6 @@ windows 下没有 bin 目录，首先我们需要找到 swag 的下载位置 `*�
 cd "$(dirname "$0")"
 cd ..
 swag init -g ./cmd/main.go --parseDependency --parseInternal --parseDepth 2
-
 
 ```
 
@@ -195,12 +192,12 @@ swag init -g D:/Jupyter/quorum/cmd/main.go --parseDependency --parseInternal --p
 
 quorum 的底层和 app 端都开源了。你如果和我一样，基于自学编程、练手好玩、想让代码贡献者的名录上有自己等等，那你将如何参与呢？欢迎留言告诉我。也欢迎分享你的笔记或经验。
 
----
+<!---
 
-tags: #自学编程 #Go语言 #RUM 
+tags: #自学编程 #Go 语言 #RUM 
 
 created_at: 2021-12-01
 
 updated_at: 2021-12-01
 
----
+--->
