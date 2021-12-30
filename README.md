@@ -8,7 +8,7 @@
 
 ## 按 Tags 选读
 
-updated_at: 2021-12-08
+updated_at: 2021-12-30
 
 ### 自学编程:
 
@@ -65,6 +65,7 @@ updated_at: 2021-12-08
 - [不躺平不鸡血，只是生活方式的选择](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_22_不躺平不鸡血，只是生活方式的选择.md)
 - [改变生活惯性并不轻松](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_28_改变生活惯性并不轻松.md)
 - [新的一天开始了](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_29_新的一天开始了.md)
+- [影响入睡的各种情况与应对办法](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_08_影响入睡的各种情况与应对办法.md)
 
 ### 精力管理:
 
@@ -91,6 +92,7 @@ updated_at: 2021-12-08
 - [这七年反复决定不喝咖啡](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_09_29_这七年反复决定不喝咖啡.md)
 - [记录一次感冒经历](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_15_记录一次感冒经历.md)
 - [茶与咖啡往事](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_30_茶与咖啡往事.md)
+- [影响入睡的各种情况与应对办法](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_08_影响入睡的各种情况与应对办法.md)
 - [站姿办公小腿紧绷且脚踝痛该怎么办](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_08_站姿办公小腿紧绷且脚踝痛该怎么办.md)
 
 ### 持续写作:
@@ -224,6 +226,7 @@ updated_at: 2021-12-08
 - [改变生活惯性并不轻松](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_28_改变生活惯性并不轻松.md)
 - [新的一天开始了](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_10_29_新的一天开始了.md)
 - [简单事情往深处想](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_11_09_简单事情往深处想.md)
+- [影响入睡的各种情况与应对办法](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_08_影响入睡的各种情况与应对办法.md)
 
 ### 生活记录:
 
@@ -316,7 +319,19 @@ updated_at: 2021-12-08
 
 - [Go新手编译quorum的API文档](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_01_Go新手编译quorum的API文档.md)
 
+### 睡眠:
+
+- [影响入睡的各种情况与应对办法](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_08_影响入睡的各种情况与应对办法.md)
+
+### 生活惯性:
+
+- [影响入睡的各种情况与应对办法](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_08_影响入睡的各种情况与应对办法.md)
+
 ### 站式办公:
 
 - [站姿办公小腿紧绷且脚踝痛该怎么办](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_08_站姿办公小腿紧绷且脚踝痛该怎么办.md)
+
+### 推广:
+
+- [海外市场拓展的渠道调研方法](https://github.com/liujuanjuan1984/CodingLife/blob/master/articles/2021_12_09_海外市场拓展的渠道调研方法.md)
 
